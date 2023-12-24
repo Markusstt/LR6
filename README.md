@@ -25,4 +25,18 @@ Cлияние в ветку master <br>
 ![](https://github.com/Markusstt/LR6/blob/master/screenshot/Screenshot_10.png)
 ![](https://github.com/Markusstt/LR6/blob/master/screenshot/Screenshot_11.png) <br>
 Итог слияния <br>
-![](https://github.com/Markusstt/LR6/blob/master/screenshot/Screenshot_12.png)
+![](https://github.com/Markusstt/LR6/blob/master/screenshot/Screenshot_12.png) <br>
+Удаление побочной ветки после успешного слияния. <br>
+![](https://github.com/Markusstt/LR6/blob/master/screenshot/Screenshot_13.png) <br>
+Создание нескольких коммитов <br>
+![](https://github.com/Markusstt/LR6/blob/master/screenshot/Screenshot_14.png) <br>
+![](https://github.com/Markusstt/LR6/blob/master/screenshot/Screenshot_15.png) <br>
+![](https://github.com/Markusstt/LR6/blob/master/screenshot/Screenshot_16.png) <br>
+Откат коммита <br>
+![](https://github.com/Markusstt/LR6/blob/master/screenshot/Screenshot_17.png) <br>
+Ветка для отчета <br>
+![](https://github.com/Markusstt/LR6/blob/master/screenshot/Screenshot_18.png) <br>
+## История операций
+![](https://github.com/Markusstt/LR6/blob/master/screenshot/Screenshot_19.png) <br>
+## Вывод
+Изучены базовые возможности системы управления версиями, получен опыт работы с Git Api и опыт работы с локальным и удаленным репозиторием
